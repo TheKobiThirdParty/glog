@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>libgoogle-glog</name>
+  <version>0.6.0</version>
+  <description>
+    Google Logging (glog) is a C++98 library that implements application-level
+    logging. The library provides logging APIs based on C++-style streams and
+    various helper macros.
+  </description>
+
+  <maintainer email="gianni.casagrande@be.bosch.com">Gianni Casagrande</maintainer>
+  <license>Restrictive</license>
+
+  <url type="repository">https://github.com/TheKobiThirdParty/glog</url>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
